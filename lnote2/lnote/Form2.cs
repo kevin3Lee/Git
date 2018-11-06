@@ -21,15 +21,16 @@ namespace lnote
         //
         private void Button1_Click(object sender, EventArgs e)
         {
-            List<CheckBox> myList = GetCabNum();//调用GetCabNum()方法获得单排屏柜列表
-            ProcessCabText(myList);//调用ProcessCabText()方法，
+            //调用GetCabNum()方法获得单排屏柜列表
+            List<CheckBox> myList = GetCabNum();
+            //调用ProcessCabText()方法，
+            ProcessCabText(myList);
         }
 
         //
         //GetCabNum()函数用于获得单排屏柜，返回一个List
         private List<CheckBox> GetCabNum()
-        {
-            
+        {          
             //
             List<CheckBox> cabList = new List<CheckBox>();//新建一个数组存放所有的CheckBox
             //遍历表格控件区域内所有的CheckBox控件
