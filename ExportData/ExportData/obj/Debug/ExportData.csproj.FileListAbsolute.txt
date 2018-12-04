@@ -1,0 +1,11 @@
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\bin\Debug\riskDB.mdb
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\bin\Debug\ExportData.exe.config
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\bin\Debug\ExportData.exe
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\bin\Debug\ExportData.pdb
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.csprojAssemblyReference.cache
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.Form1.resources
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.Properties.Resources.resources
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.csproj.GenerateResource.cache
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.csproj.CoreCompileInputs.cache
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.exe
+C:\Users\Fred\source\repos\Git\ExportData\ExportData\obj\Debug\ExportData.pdb
